@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI Generative Art
 - 🌱 I’m currently learning Stable Diffusion
 - 💞️ I’m looking to collaborate on AI Art, Stylization and More
-- 📫 How to reach me linktr.ee/ArtOnTap
+- 📫 How to reach me https://linktr.ee/ArtOnTap
 
 <!---
 ArtOnTap/ArtOnTap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
